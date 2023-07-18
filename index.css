@@ -1,0 +1,33 @@
+.container {
+    width: 620px;
+    display: block;
+  }
+  
+  .box {
+    height: 200px;
+    margin-bottom: 10px;
+  }
+  
+  .box1, .box2, .box3 {
+    width: 200px;
+    display: inline-block;
+  }
+  
+  .box4 {
+    width: 600px;
+  }
+  
+  /* Kolory tła dla każdego diva */
+  .box1 {
+    background-color: #FFC0CB; /* Różowy */
+  }
+  .box2 {
+    background-color: #00FFFF; /* Błękitny */
+  }
+  .box3 {
+    background-color: #FFFF00; /* Żółty */
+  }
+  .box4 {
+    background-color: #FFA500; /* Pomarańczowy */
+  }
+  
