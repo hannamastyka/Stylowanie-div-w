@@ -19,13 +19,13 @@
   
   /* Kolory tła dla każdego diva */
   .box1 {
-    background-color: #FFC0CB; /* Różowy */
+    background-color: rebeccapurple; 
   }
   .box2 {
-    background-color: #00FFFF; /* Błękitny */
+    background-color: bisque;
   }
   .box3 {
-    background-color: #FFFF00; /* Żółty */
+    background-color: gold;
   }
   .box4 {
     background-color: #FFA500; /* Pomarańczowy */
